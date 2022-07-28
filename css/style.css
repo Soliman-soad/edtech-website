@@ -16,3 +16,7 @@ body {
 .about-bg {
     background: #F4FAFD;
 }
+
+.register-card {
+    height: 200px;
+}
