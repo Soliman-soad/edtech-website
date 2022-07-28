@@ -12,3 +12,7 @@ body {
 .slider img {
     height: 80vh;
 }
+
+.about-bg {
+    background: #F4FAFD;
+}
