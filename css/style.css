@@ -5,6 +5,10 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 
+section {
+    margin: 100px 0;
+}
+
 .slider {
     height: 80vh;
 }
@@ -19,4 +23,8 @@ body {
 
 .register-card {
     height: 200px;
+}
+
+.company img {
+    width: 100px;
 }
